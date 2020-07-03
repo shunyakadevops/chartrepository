@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   nginxlocal:
   - apiVersion: v2
+    appVersion: 1.18.0
+    created: "2020-07-03T04:48:39.4646086-07:00"
+    description: scaled the pod count to 2
+    digest: f75398c02fae8970a1542b44d10e5b487b7b0d98f745aac9fdd4f725df3c8468
+    name: nginxlocal
+    type: application
+    urls:
+    - nginxlocal-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v2
     appVersion: 1.17.0
-    created: "2020-07-03T04:32:59.1435051-07:00"
+    created: "2020-07-03T04:48:39.4636141-07:00"
     description: A Helm chart for Kubernetes
     digest: fccb864f0223f6890a92236453984b9a9789c5bd7cd0cf5f5226e8bed1e8a5f4
     name: nginxlocal
@@ -13,7 +23,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-07-03T04:32:59.1425282-07:00"
+    created: "2020-07-03T04:48:39.4626373-07:00"
     description: A Helm chart for Kubernetes
     digest: 034867be45934399902321ce5ee1b640ea18b8c639d9df15f2cb0b0eacf25394
     name: nginxlocal
@@ -21,4 +31,4 @@ entries:
     urls:
     - nginxlocal-0.1.0.tgz
     version: 0.1.0
-generated: "2020-07-03T04:32:59.1415519-07:00"
+generated: "2020-07-03T04:48:39.4606864-07:00"
