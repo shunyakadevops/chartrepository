@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginxlocal:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-07-02T22:15:14.9831203-07:00"
+    description: A Helm chart for Kubernetes
+    digest: 034867be45934399902321ce5ee1b640ea18b8c639d9df15f2cb0b0eacf25394
+    name: nginxlocal
+    type: application
+    urls:
+    - nginxlocal-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-07-02T22:15:14.9811654-07:00"
